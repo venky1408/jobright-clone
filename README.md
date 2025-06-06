@@ -1,4 +1,5 @@
 Thank you for the strong contribution for this project Mr.Sai Surya Likhit Monavarthy (pegasus0501)
+
 🔍 About the Project
 This application is an intelligent job recommender and resume analyzer built using:
 
