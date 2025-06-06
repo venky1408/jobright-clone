@@ -1,3 +1,4 @@
+Thank you for the strong contribution for this project Mr.Sai Surya Likhit Monavarthy (pegasus0501)
 🔍 About the Project
 This application is an intelligent job recommender and resume analyzer built using:
 
@@ -111,4 +112,5 @@ Embedding model: all-MiniLM-L6-v2
 LLM match percentage logic uses a prompt-guided evaluator
 
 No external API (e.g., OpenAI) is used — runs 100% locally
+
 
